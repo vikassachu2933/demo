@@ -1,6 +1,12 @@
 aaa
 bbb
 ccc
+<<<<<<< Updated upstream
 ddd
 eee
 fff
+=======
+hhh
+iii
+jjj
+>>>>>>> Stashed changes
